@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pedro-Vieira-programmer
-- 👀 I’m interested in Python, html, css and javascript.
+- 👀 I’m interested in Python, html, css and javascript, but I'm just a begginer.
 - 🌱 I'm currently learning Python and the other languages mentioned above.
 
 <!---
