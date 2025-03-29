@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pedro-Vieira-programmer
-- 👀 I’m interested in Python, html, css and javascript, but I'm just a begginer.
+- 👀 I’m interested in Python, HTMl, CSS and Javascript, but I'm just a begginer.
 - 🌱 I'm currently learning Python and the other languages mentioned above.
+- 🤖 Futhermore, I aslo like Data Science and AI.
 
 <!---
 Pedro-Vieira-programmer/Pedro-Vieira-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
