@@ -1,24 +1,58 @@
-## About me
-- 👋 Hi, I’m @Pedro-Vieira-programmer.
-- 👀 I’m interested in Python, HTMl, CSS and Javascript, but I'm just a begginer.
-- 🌱 I'm currently learning Python and the other languages mentioned above.
-- 🤖 Futhermore, I aslo like Data Science and AI.
-- 🌍 Another interesting thing: at the age of 13, I already took part in an exchange program (Erasmus+) to Gothenburg, Sweden!
-
-## Online courses I've already taken
-- [Python (Mundo 1) - Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
-- [Python (Mundo 2) - Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
-- [Python (Mundo 3) - Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-3/) - 15/04/2025
-- Programação com App Inventor - CDI Portugal
-- Internet das Coisas (IoT) - CDI Portugal
-- Microsoft Office PowerPoint - CDI Portugal
-- Microsoft Office Excel - CDI Portugal
-- Introdução à computação e orientação de objetos - CDI Portugal
-
-## Online courses I'm currently taking
-- [CS50 - Introduction to Computer Science](https://cs50.harvard.edu/)
-- [HTML & CSS - Scrimba](https://scrimba.com/)
-
+# Hi, I'm Pedro Vieira 👋
+ 
+I'm a young developer from Portugal, learning to build things that matter.  
+At 15, I'm already exploring Python, web development, and AI, and working on my first real project: **CurioStack**.
+ 
+---
+ 
+## 🚀 What I'm building
+ 
+### [CurioStack](https://github.com/Pedro-Vieira-programmer) *(in development)*
+> A knowledge app powered by AI.
+ 
+CurioStack helps curious people learn more every day through curated educational videos, AI-generated summaries, and a personal library of content you can save and read offline.  
+Built by someone who believes that learning should be accessible, simple, easier, and even fun.
+ 
+---
+ 
+## 🌱 What I'm learning right now
+ 
+- **CS50** — Introduction to Computer Science (Harvard)
+- **HTML & CSS** — Scrimba
+- **Python** — Curso em Vídeo (Worlds 1, 2 & 3 ✅)
+ 
+---
+ 
+## 📚 Courses completed
+ 
+| Course | Institution |
+|---|---|
+| Python (Worlds 1, 2 & 3) | Curso em Vídeo |
+| Programming with App Inventor | CDI Portugal |
+| Internet of Things (IoT) | CDI Portugal |
+| Microsoft Office PowerPoint & Excel | CDI Portugal |
+| Intro to Computing & OOP | CDI Portugal |
+ 
+---
+ 
+## 🌍 A bit more about me
+ 
+- 🇵🇹 Born and lives in Portugal
+- ✈️ At 13, I took part in an **Erasmus+ exchange programme** in Gothenburg, Sweden
+- 🤖 Passionate about AI and how technology can change the way people learn
+- 📖 I believe curiosity is the most important skill you can have
+- I really love reading, practicing sports and hanging out with friends
+ 
+---
+ 
+## 📬 Get in touch
+ 
+If you're curious about CurioStack or just want to connect, feel free to reach out.
+ 
+---
+ 
+*"The more that you read, the more things you will know." — Dr. Seuss*
+ 
 <!---
 Pedro-Vieira-programmer/Pedro-Vieira-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
